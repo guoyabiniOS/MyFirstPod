@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirstPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Gyb/MyFirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gyb": "264798213@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/guoyabiniOS/MyFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFirstPod/Classes/**/*"
+}
